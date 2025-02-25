@@ -31,5 +31,5 @@ O jogo sorteia palavras e os jogadores devem adivinhá-las para acumular prêmio
 - O jogo pode ser adaptado para outros compiladores alterando a função `system("cls")` para `system("clear")` caso seja usado em sistemas Unix/Linux.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por @Lelibi perfil no GitHub.
 
